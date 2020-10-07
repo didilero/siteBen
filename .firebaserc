@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "site-ben-d41dc": {
+      "hosting": {
+        "siteBen": [
+          "site-ben-d41dc"
+        ]
+      }
+    }
+  }
+}
