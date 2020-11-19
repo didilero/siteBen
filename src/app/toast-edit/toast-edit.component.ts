@@ -9,6 +9,7 @@ import { ToastService } from '../service/toast.service';
 export class ToastEditComponent implements OnInit {
 
   toastService: any;
+  
   constructor(private ts: ToastService) {
     this.toastService = ts;
   }
